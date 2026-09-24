@@ -17,6 +17,14 @@ The project focuses on understanding how a neural network actually works interna
 - Numerical debugging
 - Memory and performance analysis
 
+Beginner Friendly Documentation - https://docs.google.com/document/d/158T4iS1p2u74WOrk20P8EK7UBObdxgY1/edit?usp=drivesdk&ouid=116178795621477601951&rtpof=true&sd=true
+
+Phase 1 : Core Learning - https://docs.google.com/document/d/1ZmWR4USnUDuDr2yMiQS3nKON4PLfna3x/edit?usp=drivesdk&ouid=116178795621477601951&rtpof=true&sd=true
+
+Phase 2 : Implementation & Optimization - https://docs.google.com/document/d/1t3iYNzwKBdsmMwcUAScJgeF1qM-GEhJy/edit?usp=drivesdk&ouid=116178795621477601951&rtpof=true&sd=true
+
+Phase 3 : Interview Mastery - https://docs.google.com/document/d/18B9M6oAVXIGPH2pi8zN6AAYufrmMrChC/edit?usp=drivesdk&ouid=116178795621477601951&rtpof=true&sd=true
+
 The project is designed as an educational implementation to connect the mathematical concepts of neural networks with their actual implementation in C++.
 
 ---
